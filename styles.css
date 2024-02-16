@@ -49,12 +49,8 @@ section h2 {
 }
 
 ul {
-    list-style: none;
+    list-style: disc !important;
     padding: 0;
-}
-
-li {
-    margin-bottom: 10px;
 }
 
 a {
